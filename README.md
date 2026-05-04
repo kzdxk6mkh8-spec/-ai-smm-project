@@ -1,6 +1,5 @@
 ## Summary
 An AI assistant that helps SMM managers and small businesses create Instagram content ideas, captions, and strategies using artificial intelligence.
-# AI Assistant for Instagram Content Strategy
 
 ## Problem
 Many small business owners and SMM managers struggle to create consistent and engaging content for Instagram.
@@ -19,4 +18,3 @@ Generic content and data privacy.
 
 ## Impact
 Helps SMM managers save time and improve content quality.
-This project was created as part of the Building AI course.
