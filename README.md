@@ -1,3 +1,5 @@
+## Summary
+An AI assistant that helps SMM managers and small businesses create Instagram content ideas, captions, and strategies using artificial intelligence.
 # AI Assistant for Instagram Content Strategy
 
 ## Problem
