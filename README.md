@@ -17,3 +17,4 @@ Generic content and data privacy.
 
 ## Impact
 Helps SMM managers save time and improve content quality.
+This project was created as part of the Building AI course.
